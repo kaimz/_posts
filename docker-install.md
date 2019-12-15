@@ -117,6 +117,15 @@ $ sudo apt-get update
 $ sudo apt-get install docker-ce
 ```
 
+### Mac 安装
+
+*首先要去官网查看版本支持情况*
+
+```shell
+$ brew search docker  # 查询， 推荐使用 Homebrew 包管理软件 
+$ brew cask install docker # 安装
+```
+
 
 
 ### 国内镜像加速器

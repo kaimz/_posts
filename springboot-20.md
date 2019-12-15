@@ -3,7 +3,7 @@ title: 学习Spring Boot：（二十）使用 MongoDB
 date: 2018-03-03 22:08:08
 tags: [Spring Boot,mongodb]
 categories: 学习笔记
-[1075199251,张凯,18772383543,wuwii,追光者w,有梦想的咸鱼,一棵树站在原野上,Slience]
+
 ---
 
 ### 前言

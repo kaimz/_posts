@@ -3,7 +3,7 @@ title: 学习Spring Boot：（八）Mybatis使用分页插件PageHelper
 date: 2018-02-23 10:08:03
 tags: [Spring Boot]
 categories: 学习笔记
-[1075199251,张凯,18772383543,wuwii,追光者w,有梦想的咸鱼,一棵树站在原野上,Slience]
+
 ---
 
 首先Mybqtis可以通过SQL 的方式实现分页很简单，只要在查询SQL 后面加上`limit #{currIndex} , #{pageSize}`就可以了。

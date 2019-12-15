@@ -3,7 +3,7 @@ title: 学习Spring Boot：（四）应用日志
 date: 2018-02-23 10:08:05
 tags: [Spring Boot]
 categories: 学习笔记
-[1075199251,张凯,18772383543,wuwii,追光者w,有梦想的咸鱼,一棵树站在原野上,Slience]
+
 ---
 
 ## 前言
